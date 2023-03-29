@@ -1,8 +1,12 @@
 - 👋 Hi, I’m Donnell Sample
 -
-- 👀 I’m interested in software development and working with different technologies
-- such as javascript, C#, java, Node.js 
-- 🌱 I’m currently learning python, AWS cloud practitioner,Cloud Architecture 
-- 📫 How to reach me: linkedin.com/in/donnell-sample-11a2397a dondon55.ds@gmail.com
+- I’m an entry level software developer with skills in front-end and back-end development.
+- MY go to languages are javascript, C#, java, Node.js, Typscript and Angular 
+- I’m currently learning python, working towards certifications as a  AWS cloud practitioner and Cloud Architecture 
+- I have worked with many other languages and frame works, with hands on experience building applications
+- I have an understanding of OOP and SDLC. 
+- An understand of multiple cloud platforms and how to deploy applications to the cloud
+- I'm always looking to work with a team and learn new tech!
+- Thanks for stopping by!
 
 
