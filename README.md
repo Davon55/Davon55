@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Donnell Sample
--
 - I’m an entry level software developer with skills in front-end and back-end development.
-- MY go to languages are javascript, C#, java, Node.js, Typscript and Angular 
+- My go to languages are javascript, C#, java, Node.js, Typscript and Angular 
 - I’m currently learning python, working towards certifications as a  AWS cloud practitioner and Cloud Architecture 
 - I have worked with many other languages and frame works, with hands on experience building applications
 - I have an understanding of OOP and SDLC. 
